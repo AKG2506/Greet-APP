@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "https://akg2506.github.io/Greet-APP/static/js/main.0e1420db.js",
+    "index.html": "https://akg2506.github.io/Greet-APP/index.html",
+    "main.0e1420db.js.map": "https://akg2506.github.io/Greet-APP/static/js/main.0e1420db.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0e1420db.js"
+  ]
+}
